@@ -65,3 +65,8 @@ Apache2
                 LogLevel warn
                 CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
+
+## References
+
+- How to configure mod_wsgi (http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/#configuring-apache)
+- Deploy Flask Application with Apache (http://www.devfuria.com.br/python/flask-apache/)
